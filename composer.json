@@ -1,0 +1,18 @@
+{
+  "name": "leurdo/wc-attributes-tabs",
+  "description": "WC Attributes Tabs",
+  "license": "GPL-2.0",
+  "type": "wordpress-plugin",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "config": {
+    "platform": {
+      "php": "5.6"
+    }
+  },
+  "autoload": {
+    "classmap": [
+      "includes"
+    ]
+  }
+}
